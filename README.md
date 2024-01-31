@@ -10,9 +10,9 @@ Tujuan dari project ini adalah memprediksi harga tiga komoditas pangan tersebut 
 
 <b> 2. Data Pre-processing </b>         : Sinkronisasi format nama kolom, imputasi (pengisian) missing value, dan merapikan kolom agar data siap untuk dilakukan proses machine learning modelling <br>
 
-<b> 3. Exploratory Data Analysis  </b>  : <br>
+<b> 3. Exploratory Data Analysis  </b>  : Menganalisa pola pergerakan harga tiga komoditas di 33 provinsi. Dari analisa tersebut, disimpulkan bahwa setiap komoditas memiliki pola pergerakan yang berbeda satu sama lain. Adapun perbedaan antar wilayah (Sumatra dengan Jawa, Maluku dengan Sulawesi, etc) memiliki perbedaan pola yang tidak terlalu signifikan. <br>
 
-<b> 4. Machine Learning Modelling </b>  : <br>
+<b> 4. Machine Learning Modelling and Model Evaluation </b>  : Mencari model ARIMA manakah yang paling tepat untuk prediksi harga masing-masing komoditas. Untuk komoditas bawang merah, prediksi menggunakan model ARIMA (20,2,0). Komoditas  beras premium dengan model ARIMA (1,2,4). Adapun komoditas daging ayam dengan model ARIMA (5,2,2). <br>
 
-<b> 5. Price Forecasting          </b>  : <br>
+<b> 5. Price Forecasting          </b>  : Setelah model machine learning yang sesuai berhasil teridentikasi, barulah prediksi harga tiga bulan kedepan (Juli - September 2023) dapat dilakukan <br>
 
