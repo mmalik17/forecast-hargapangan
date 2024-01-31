@@ -6,9 +6,9 @@ Project ini merupakan bagian dari keikutsertaan saya dalam kompetisi Data Scienc
 
 Tujuan dari project ini adalah memprediksi harga tiga komoditas pangan tersebut dari bulan Juli - September 2023, berdasarkan data harga pangan bulan Januari 2018 - Juni 2023. Adapun tahapan dari pengerjaan project ini adalah sebagai berikut:
 
-1. <b> Data Understanding </b>         : Identifikasi kolom dan tipe datanya, missing value, format nama kolom, dan sebagainya. Temuan abnormal pada tahapan ini akan dibenahi pada tahap selanjutnya
-2. <b>Data Pre-processing </b>       : Sinkronisasi format nama kolom, imputasi (pengisian) missing value, dan merapikan kolom agar data siap untuk dilakukan proses machine learning modelling
-3. Exploratory Data Analysis  :
-4. Machine Learning Modelling :
-5. Price Forecasting          :
+<b> 1. Data Understanding </b>          : Identifikasi kolom dan tipe datanya, missing value, format nama kolom, dan sebagainya. Temuan abnormal pada tahapan ini akan dibenahi pada tahap selanjutnya
+<b> 2. Data Pre-processing </b>         : Sinkronisasi format nama kolom, imputasi (pengisian) missing value, dan merapikan kolom agar data siap untuk dilakukan proses machine learning modelling
+<b> 3. Exploratory Data Analysis  </b>  :
+<b> 4. Machine Learning Modelling </b>  :
+<b> 5. Price Forecasting          </b>  :
 
