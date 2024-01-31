@@ -9,7 +9,10 @@ Tujuan dari project ini adalah memprediksi harga tiga komoditas pangan tersebut 
 <b> 1. Data Understanding </b>          : Identifikasi kolom dan tipe datanya, missing value, format nama kolom, dan sebagainya. Temuan abnormal pada tahapan ini akan dibenahi pada tahap selanjutnya <br>
 
 <b> 2. Data Pre-processing </b>         : Sinkronisasi format nama kolom, imputasi (pengisian) missing value, dan merapikan kolom agar data siap untuk dilakukan proses machine learning modelling <br>
+
 <b> 3. Exploratory Data Analysis  </b>  : <br>
+
 <b> 4. Machine Learning Modelling </b>  : <br>
+
 <b> 5. Price Forecasting          </b>  : <br>
 
