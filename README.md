@@ -1,5 +1,5 @@
 # Project Title
-Prediksi Harga Tiga Komoditas Pangan Menggunakan Model Timeseries dengan Metode Autoregressive Integrated Moving Average (ARIMA)
+Prediksi Harga Beberapa Komoditas Pangan Menggunakan Model Timeseries dengan Metode Autoregressive Integrated Moving Average (ARIMA)
 
 # Project Description
 Project ini merupakan bagian dari keikutsertaan saya dalam kompetisi Data Science Playground yang diselenggarakan oleh komunitas Data Science Indonesia. Data awal yang tersedia pada project ini adalah tabel harga tiga komoditas pangan (beras premium, bawang merah, dan daging ayam ras) di 33 provinsi dalam kurun waktu Januari 2018 - Juni 2023.
