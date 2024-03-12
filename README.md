@@ -16,3 +16,5 @@ Tujuan dari project ini adalah memprediksi harga tiga komoditas pangan tersebut 
 
 <b> 5. Price Forecasting          </b>  : Setelah model machine learning yang sesuai berhasil teridentikasi, barulah prediksi harga tiga bulan kedepan (Juli - September 2023) dapat dilakukan <br>
 
+<b> 6. Kesimpulan dan Rekomendasi </b>  : Hasil Prediksi dapat dijadikan sebagai landasan dalam melakukan strategi pembelian pangan pada tiga bulan mendatang <br>
+
